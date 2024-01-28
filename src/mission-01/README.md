@@ -1,7 +1,3 @@
-# 멋쟁이 사자처럼 React
-
-## React homework
-
 ## mission - 01
 Vanilla-project에서 구현한 인터페이스의 일부를 React로 렌더링.
 
